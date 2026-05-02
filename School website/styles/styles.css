@@ -1,0 +1,525 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+}
+
+
+header{
+    padding: 30px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: navy;
+    color:white;
+}
+
+.nav{
+    display: flex;
+    justify-content: space-between;
+    text-decoration: none;
+} 
+
+
+.nav a{
+    text-decoration: none;
+    color: white;
+}
+
+.nav li{
+    list-style: none; 
+    margin-right: 40px;  
+    text-decoration: none;
+}
+.h2 {
+    text-align: center;
+    background-color:navy;
+  padding-bottom:20px ;
+  color: white;
+  font-size: 30px;
+}
+.name{
+    text-align: center;
+    background-color: navy;
+    margin-bottom: 30px;
+    padding-bottom: 50px;
+    color: white;
+     line-height: 2;
+}
+
+
+.Welcome-Section{
+    align-items: center;
+    justify-content: space-between;
+    background-color: white;
+    display: block;
+    padding-bottom: 50px;
+}
+
+.HERO h1{
+    text-align: center;
+    color: black;
+    font-size: 20px;
+    padding-bottom: 40px;
+}
+
+.HERO p{
+    text-align: center;
+    color:black;
+    font-size: 14px;
+    margin-bottom: 30px;
+    padding-left: 70px;
+    padding-right: 70px;
+    color: navy;
+}
+
+
+
+
+.Yes{
+    font-size: 30px;
+    text-align: center;
+    padding-bottom: 40px;
+    padding-top: 40px;
+    color: navy;
+}
+.no{
+    font-size: 30px;
+    text-align: center;
+    color:  navy;
+}
+.all-div {
+    display: flex;
+    margin: 50px;
+    color: black;
+    text-align: left;
+    justify-content: space-between;
+    margin-right: 1%;
+    padding-left: 100px; 
+    padding-right: 100px;
+}
+
+.all-div div {
+    background-color: ghostwhite;
+    width: 25%;
+}
+
+
+
+.view{
+    padding-left: 10px;
+    padding-right: 250px;
+    display: flex;
+}
+.view img{
+    padding-left: 100px;
+}
+
+.top{
+    text-align: center;
+    color: navy;
+}
+.pot{
+    padding-bottom: 20px;
+    font-size: 20px;
+    color: navy;
+}
+
+
+.child{
+    padding-bottom: 30px;
+    color: navy;
+    padding-left: 90px;
+}
+
+
+.coco{
+    font-size: 30px;
+    text-align: center;
+    color: navy;
+    padding-bottom: 30px;
+    padding-top: 40px;
+    background-color: whitesmoke;
+}
+
+.modo{
+    text-align: center;
+    background-color: whitesmoke;
+}
+
+.zodo{
+    background-color: white;
+    line-height: 2;
+    margin: 30px;
+    border-radius: 40px;
+    padding-right: 30px;
+    padding-left: 30px;
+    color: navy;
+}
+
+
+.site{
+    background-color: white;
+    line-height: 2;
+    margin: 30px;
+    border-radius: 100px;
+    padding-right: 30px;
+    padding-left: 30px;
+    color:navy;
+
+}
+
+.gap{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding-bottom: 40px;
+    padding-top: 40px;
+    font-size: 13px;
+}
+
+
+.END{
+    text-align:right;
+    justify-content: space-between;   
+}
+
+.class{
+    background-color: navy;
+    color: white;
+    text-align: center;
+}
+
+.school{
+    margin-bottom: 30px;
+}
+
+.form{
+    padding-bottom: 40px;
+    line-height: 2;
+}
+
+.read{
+    text-align: center;
+}
+
+.bom{
+    color: navy;
+    padding-bottom: 30px;
+    padding-top: 30px;
+}
+
+.vite{
+padding-left: 60px;
+margin-bottom: 30px;
+text-align: left;
+color: navy;
+}
+
+.rel{
+    padding-left: 60px;
+    text-align: left;
+    padding-bottom: 70px;
+    color: navy;
+}
+
+.Home{
+    text-align: center;
+    padding-bottom: 30px;
+    padding-top: 30px;
+    background-color: navy;
+    color:white;
+}
+
+.Hop{
+    text-align: center;
+    background-color: navy;
+    color: white;
+    padding-bottom: 20px;
+}
+
+.your{
+    text-align: center;
+    margin-top: 20px;
+    color: navy;
+}
+
+
+.day-hover{
+background-color: navy;
+color: white;
+padding-left: 90px;
+padding-top: 60px;
+}
+
+
+.greed{
+    font-size: 12px; 
+    margin-bottom: 30px;
+    padding-bottom: 30px;
+}
+.video{
+    font-size: 12px;
+    margin-bottom: 60px;
+    padding-bottom: 60px;
+} 
+
+
+.tools{
+    text-align: center;
+    color: navy;
+}
+
+
+.Our{
+ text-align: left; 
+ margin: 30px;
+ font-size: 12px;
+ color: navy;
+} 
+
+
+.but{
+ text-align: left; 
+ margin: 30px;
+ font-size: 12px;
+ color: navy;
+ margin-top: 20px;
+}
+
+.code{
+    text-align: center;
+    display: flex;
+    color: black;
+    justify-content: space-between;
+    margin-right: 1% ;
+    background: whitesmoke;
+    padding-right: 100px;
+}
+
+.p{
+    font-size: 10px;
+    text-align: left;
+    color: navy;
+}
+
+.code h3{
+    text-align: left;
+    padding-bottom: 10px;
+    color: navy;
+}
+.all img{
+    padding-right: 10px;
+    border-radius: 10px;
+}
+
+.Of{
+    padding-left: 10px;
+    border-radius: 20px;
+}
+.lol{
+    padding-left: 10px;
+    border-radius: 20px;
+}
+.we{
+    padding-left: 10px;
+    border-radius: 10px;
+}
+.youth{
+    padding-left: 10px;
+    border-radius: 10px;
+}
+
+
+.be{
+    text-align: center;
+    background-color: whitesmoke;
+}
+
+.be p{
+    line-height: 2;
+    font-size: 10px;
+    padding-bottom: 40px;
+    color: navy;
+}
+
+.div{
+    color: navy;
+    padding-bottom: 40px;
+    padding-top: 30px;
+}
+
+.pax{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    font-size: 10px;
+} 
+
+.index{
+    text-align: center;
+    background-color: whitesmoke;
+    color: navy;
+    padding: 30px;
+}  
+
+.fit{
+    text-align: center;
+    display: flex;
+    background-color: whitesmoke;
+}
+.team{
+    font-size: 10px;
+    text-align: left;
+    background-color: white;
+    color: navy;
+}
+.day{
+    font-size: 10px;
+    text-align: left;
+    background-color: white;
+    margin-left:50px ;
+    color: navy;
+}
+
+.deep{
+    padding-bottom: 10px;
+}
+
+.easy{
+    text-align: center;
+    background-color: navy;
+    color: white;
+    padding-bottom: 60px;
+    padding-top: 60px;
+}
+
+
+
+/* CONTACT */
+.contact-container {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 30px;
+    text-align: left;
+}
+
+.contact-info {
+    width: 40%;
+    padding-left: 30px ;
+    color: navy;
+}
+
+.contact-form {
+    width: 55%;
+    display: flex;
+    flex-direction: column;
+    padding-bottom:70px;
+}
+
+.contact-form label {
+    margin-bottom: 5px;
+    font-weight: bold;
+}
+
+.contact-form input,
+.contact-form textarea {
+    margin-bottom: 15px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 6px;
+}
+
+.contact-form input:focus,
+.contact-form textarea:focus {
+    border-color: #6c63ff;
+    outline: none;
+}
+
+.contact-form button {
+    background-color: #ff6584;
+    color: white;
+    padding: 10px;
+    border: none;
+    border-radius: 6px;
+}.contact-form input,
+.contact-form textarea {
+    margin-bottom: 15px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 6px;
+}
+
+.contact-form input:focus,
+.contact-form textarea:focus {
+    border-color: #6c63ff;
+    outline: none;
+}
+
+.contact-form button {
+    background-color: navy;
+    color: white;
+    padding: 10px;
+    border: none;
+    border-radius: 6px;
+}
+
+.contact-form button:hover {
+    background-color:firebrick;
+}
+
+/* FOOTER */
+footer {
+    text-align: center;
+    padding: 20px;
+    background-color: #6c63ff;
+    color: white;
+}
+.br{
+    text-align: center;
+    padding: 40px;
+    color: navy;
+}
+
+.hop{
+    border-bottom:1px solid;
+    font-size: 12px;
+    padding-bottom: 40px;
+    padding-left: 70px;
+    color: navy;
+}
+
+.max{
+    font-size: 10px;
+    background-color: black;
+    margin-top: 10px;
+}
+
+
+.all-h3{
+    padding-bottom: 20px;
+}
+
+.all-div p{
+    color: navy;
+}
+
+.note{
+    padding-left: 70px;
+    color: navy;
+}
+.mopo{
+    padding-left: 20px;
+}
+@media(max-width: 480px){
+    .all-div {
+    display: flex;
+    text-align: left;
+    justify-content: space-between;
+    margin-right: 1%;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+}
